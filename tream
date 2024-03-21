@@ -1,0 +1,5 @@
+        FileOutputStream fos = new FileOutputStream("E:\\java_doc\\src\\io_demo\\demo_pratice");
+        BufferedOutputStream bos = new BufferedOutputStream(fos);
+
+        FileInputStream fis = new FileInputStream("E:\\java_doc\\src\\io_demo\\demo_pratice");
+        BufferedInputStream bis = new BufferedInputStream(fis);
