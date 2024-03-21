@@ -1,0 +1,6 @@
+package io_demo;
+
+import java.io.*;
+
+public class IoDemo_06 {
+    public static void main(String args[]) throws IOException {
