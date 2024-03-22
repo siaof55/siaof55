@@ -1,0 +1,4 @@
+    from pywebio.utils import pyinstaller_datas # ！
+    a = Analysis(
+    ...
+    datas=pyinstaller_datas(), 
