@@ -1,0 +1,4 @@
+def refresh(exp):
+    out = calc(exp)
+    with use_scope("aa", clear=True):
+        put_text(out)
