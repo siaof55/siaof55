@@ -1,0 +1,10 @@
+  }
+ }
+
+ public boolean chack(String carid) {
+  for (CarParking car : carpaking) {
+   if (car.getState().equals(carid)) {
+    System.out.println
+   }
+
+  }
