@@ -1,0 +1,5 @@
+package com.gem.service;
+
+import com.gem.entity.User;
+
+public interface UserService {
