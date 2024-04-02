@@ -1,0 +1,6 @@
+        setArray(newElements);
+        return true;
+    } finally {
+        lock.unlock();
+    }
+    }
