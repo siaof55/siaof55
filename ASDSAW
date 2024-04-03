@@ -1,0 +1,6 @@
+        }
+        return oldValue;
+    } finally {
+        lock.unlock();
+    }
+}
